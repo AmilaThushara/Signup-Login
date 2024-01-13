@@ -27,6 +27,6 @@ Like `npm start` / `yarn start`, but also attempts to open your app in the iOS S
 #### `npm run android` or `yarn run android`
 
 
-<br />
+
 
 
