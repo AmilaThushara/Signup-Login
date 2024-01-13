@@ -1,4 +1,4 @@
-# Login-SignUp-UI-React-Native
+# Login-SignUp-UI-React-NativeApp
 
 ![Untitled-2](https://github.com/AmilaThushara/Signup-Login/assets/80099554/b06969ee-dec9-4cbc-a6ad-90da61eb7f74)
 
